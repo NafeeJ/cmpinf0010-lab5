@@ -1,0 +1,3 @@
+We chose MIT because it grants open permissions and protects us from liability and warranty
+
+We chose our code of conduct because GitHub said it was good for any size project
